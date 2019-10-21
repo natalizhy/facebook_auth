@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c9da203-a28c-46ce-8165-82873b3f9f18" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Dropbox/my works/blacklist/Search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dropbox/my works/blacklist/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dropbox/my works/blacklist/img/avatar-150.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dropbox/my works/blacklist/img/cloud-storage-download.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dropbox/my works/blacklist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dropbox/my works/blacklist/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dropbox/my works/blacklist/success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dropbox/my works/chi/.idea/chi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dropbox/my works/chi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dropbox/my works/chi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dropbox/my works/chi/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Authorization_credentials/limited_access/backend/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Authorization_credentials/limited_access/backend/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Authorization_credentials/limited_access/backend/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Authorization_credentials/limited_access/backend/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Authorization_credentials/limited_access/backend/client_secret.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exemple/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exemple/user-list/assets/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exemple/user-list/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exemple/user-list/repositories/init.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../argon2/backend/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../argon2/backend/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../argon2/backend/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../argon2/backend/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../argon2/backend/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/assets/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/templates/profile.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1SNDeBGbaB4GKor7SyEPWxiXwYe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/auth" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c9da203-a28c-46ce-8165-82873b3f9f18" name="Default Changelist" comment="" />
+      <created>1571395252752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571395252752</updated>
+      <workItem from="1571395254095" duration="4926000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
