@@ -22,14 +22,10 @@
       <change afterPath="$PROJECT_DIR$/../../exemple/user-list/assets/css/styles.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exemple/user-list/main.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exemple/user-list/repositories/init.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../argon2/backend/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../argon2/backend/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../argon2/backend/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../argon2/backend/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../argon2/backend/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth/assets/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth/templates/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/auth/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/auth/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/auth/main.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +35,7 @@
   </component>
   <component name="GOROOT" path="/usr/local/go" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1SNDeBGbaB4GKor7SyEPWxiXwYe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -77,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571395252752</updated>
-      <workItem from="1571395254095" duration="4926000" />
+      <workItem from="1571395254095" duration="29502000" />
     </task>
     <servers />
   </component>
